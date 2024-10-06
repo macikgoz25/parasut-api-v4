@@ -1,0 +1,21 @@
+{
+    "name": "fidetay/parasut-v4",
+    "description": "Parsaut V4 Api client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Suat Tastan",
+        "email": "hello@fidetay.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Parasut\\": "src"
+        },
+        "files": []
+    },
+    "require": {
+        "php": ">=5.5.9",
+        "ext-curl": "*"
+    },
+    "minimum-stability": "dev"
+}

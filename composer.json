@@ -1,11 +1,11 @@
 {
-    "name": "fidetay/parasut-v4",
-    "description": "Parsaut V4 Api client",
+    "name": "macikgoz25/parasut-api-v4",
+    "description": "Php Parasut Api V4 Client",
     "type": "library",
     "license": "MIT",
     "authors": [{
-        "name": "Suat Tastan",
-        "email": "hello@fidetay.com"
+        "name": "Muhammed AÇIKGÖZ",
+        "email": "m.acikgoz25@gmail.com"
     }],
     "autoload": {
         "psr-4": {

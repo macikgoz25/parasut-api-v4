@@ -6,7 +6,7 @@ use Exception;
 
 class Client
 {
-    public $BASE_URL = 'https://api.heroku-staging.parasut.com';
+    public $BASE_URL = 'https://api.parasut.com'; // Test ortami icin : https://api.heroku-staging.parasut.com girilmelidir.
     public $version = 'v4';
     public $config;
     public $access_token;

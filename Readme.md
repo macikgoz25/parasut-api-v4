@@ -4,7 +4,7 @@
 
 ## Install
 ```
-composer require fidetay/parasut-api-v4
+composer require macikgoz/parasut-api-v4
 ```
 
 ## Usage

@@ -4,7 +4,7 @@
 
 ## Install
 ```
-composer require macikgoz/parasut-api-v4
+composer require macikgozzz/parasut-api-v4
 ```
 
 ## Usage
